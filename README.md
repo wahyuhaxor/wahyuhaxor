@@ -1,6 +1,7 @@
 # Hey There! I'm Wahyu . 👋
 
 I'm a passionate developer with expertise in various programming languages and technologies. I enjoy creating innovative solutions and sharing my knowledge with the community. Welcome to my GitHub profile!
+[![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif](https://i.postimg.cc/L6f78sV6/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif)](https://postimg.cc/rKVghMbv)
 
 ## ⚡ Technologies
 
@@ -17,9 +18,6 @@ I'm a passionate developer with expertise in various programming languages and t
 ## 🌐 Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuhaxor&layout=compact&theme=vue-dark&hide_border=true&card_width=450)](https://github.com/RozhakXD)
 
-## 🔥 Coding Streak 
-![Stargazers Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahyuhaxor&theme=holi-theme&background=0D1117&hide_border=true&stroke=FF79C6)
-
 ## 🤝 Let's Connect 
 
 Feel free to reach out if you want to collaborate on projects, discuss technology, or just chat!
@@ -27,4 +25,3 @@ Feel free to reach out if you want to collaborate on projects, discuss technolog
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/wahyuhere_)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-%23232D25?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6282414001167)
 [![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/karawangcyberteam)
-[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@rozhak_official)
